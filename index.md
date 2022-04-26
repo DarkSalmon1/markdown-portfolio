@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-![Image of Baracktocat saying 'YES WE CODE!' similar to Barack Obama's (fromer U.S. president) campaign 'YES WE CAN!'] (https://octodex.github.com/images/baracktocat.jpg)
+![Image of Baracktocat saying 'YES WE CODE!' similar to Barack Obama's (fromer U.S. president) campaign 'YES WE CAN!'] (https://octodex.github.com/images/baracktocat.png)
 
 <br>
 
