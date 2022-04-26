@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# ADDING HEADERS
+## Creator
+### Dark Salmon
+## Changes made:
+### I added my name and included a header
