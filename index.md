@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-![Image of Baracktocat] (https://octodex.github.com/images/baracktocat.jpg)
+(![Image of Baracktocat] (https://octodex.github.com/images/baracktocat.jpg))
 
 <br>
 
