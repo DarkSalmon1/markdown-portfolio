@@ -6,7 +6,8 @@ layout: default
 
 <br>
 
-(![Image of Baracktocat] (https://octodex.github.com/images/baracktocat.jpg))
+
+{% include 02-image.md %}
 
 <br>
 
